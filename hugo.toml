@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "how-did-we-get-here"
+baseURL = "https://govindmenon69.github.io/OrangeMC-DOCS-SRC/"
 theme = "hugo-bearcub"
 copyright = "Orange Labs (CC BY 4.0)"
 defaultContentLanguage = "en"
