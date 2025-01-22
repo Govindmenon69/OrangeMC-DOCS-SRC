@@ -86,7 +86,7 @@ weight: 1
      ![Loading..](image-13.png)
 
 
-* NOW this is the LAST STEP do not SKIP IT, ENSURE you have exactly 2 custom packs + the Default pack in the SELECTED.Start counting and check for exactly TWO(2) 
+* NOW this is the LAST STEP do not SKIP IT, ENSURE you have exactly 3 custom packs + the Default pack in the SELECTED.Start counting and check for exactly THREE 
 PACKS WITH GANESH FACE ICON!!!
 
 * You have not completed the installation and have unlocked the ability to legally affirm your success , TO affirm say "DING DING" out loud two times
