@@ -86,15 +86,15 @@ weight: 1
      ![Loading..](image-13.png)
 
 
-* NOW this is the LAST STEP do not SKIP IT, ENSURE you have exactly 3 custom packs + the Default pack in the SELECTED.Start counting and check for exactly THREE 
-PACKS WITH GANESH FACE ICON!!!
+* NOW this is the LAST STEP do not SKIP IT, ENSURE you have exactly 2 custom packs + the Default pack in the SELECTED.Start counting and check for exactly two
+PACKS WITH GANESH FACE ICON!!! ```two number src - ignore this box readers```
 
 * You have not completed the installation and have unlocked the ability to legally affirm your success , TO affirm say "DING DING" out loud two times
 
 ## A guide on the LOGIN system
 
 * When you initally log on to the server, you will be greeted with the lack of ability to move and a message in chat to "REGISTER"
-
+s
      * Register with the command ```/register xxxxxxx``` REPLACE THE xxxxxxx with any password of your choosing that is ATLEAST SIX(6) Characters long
 
 * MUG THIS PASSWORD PLEASE
