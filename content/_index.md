@@ -115,7 +115,7 @@ s
 
 * Incendium : https://stardustlabs.miraheze.org/wiki/Incendium
 
-* Neo Enchants : https://github.com/Hardel-DW/NeoEnchant/wiki/Custom-Enchantments
+  
 
 * KawaMood's Racks : https://modrinth.com/datapack/racks
 
