@@ -89,6 +89,17 @@ weight: 1
 * NOW this is the LAST STEP do not SKIP IT, ENSURE you have exactly 2 custom packs + the Default pack in the SELECTED.Start counting and check for exactly two
 PACKS WITH GANESH FACE ICON!!! ```two number src - ignore this box readers```
 
+* ENSURE THE PACKS ARE IN THE CORRECT ORDER PRIORITY!!! 
+
+ *  The packs SHOULDD BE ARRANGED IN THE FOLLOWING ORDER PLEASE MAKE SURE IT IS SO!!!
+   
+ * ![image](https://github.com/user-attachments/assets/e89712bf-e629-46b7-b212-1356a356eba3)
+
+ * Here pack2 shoul come first followed by pack1 (decending order from the top and acending from the bottom lol)
+
+ * Ignore the ```Fabric Mods``` modpack that is added by lunar client on my end and is not nesscessary for your autism lol 
+
+
 * You have not completed the installation and have unlocked the ability to legally affirm your success , TO affirm say "DING DING" out loud two times
 
 ## A guide on the LOGIN system
